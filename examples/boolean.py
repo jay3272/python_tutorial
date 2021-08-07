@@ -5,7 +5,7 @@ Created on Thu Oct 26 14:30:21 2017
 
 @author: justinwu
 """
-X=True
+x=True
 y=False
 print(x&y)
 print(x|y)
